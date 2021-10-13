@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div>
-  <a href="https://github.com/antoniovivasbc"> </a>
+  <a href="https://github.com/antoniovivasbc">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=antoniovivasbc&showicons=true&theme=dracula&inlude_all_commits=true&count_private=true"/>
+  </a>
 </div>
