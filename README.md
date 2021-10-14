@@ -11,7 +11,7 @@
 <div>
   <a href="https://github.com/antoniovivasbc">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=antoniovivasbc&show_icons=true&theme=dracula&inlude_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoniovivasbc&layout=compact&langs_count=16&theme=dracula"/>
+    <img height="180em" width="50%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoniovivasbc&layout=compact&langs_count=16&theme=dracula"/>
   </a>
 </div>
 <div>
