@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 😀 My Name is Antonio Vivas Bezerra Cavalcante Júnior.
-- 💻 I'm currently working on an online POS system using PHP.
+- 💻 I'm currently working on my portolio in Laravel.
 - 🤔 I'm looking for help with Laravel, I am trying to learn it.
 - 🌱 I'm currently learning Laravel.
 - 💬 Ask me about anything, I will enjoy to talk about anything.
