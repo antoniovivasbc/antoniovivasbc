@@ -4,7 +4,7 @@
 - 💻 I'm currently working on my portolio in Laravel.
 - 🤔 I'm looking for help with Laravel, I am trying to learn it.
 - 🌱 I'm currently learning Laravel.
-- 💬 Ask me about anything, I will enjoy to talk about anything.
+- 💬 Ask me about anything, I will enjoy to talk about everything.
 <!--
 **antoniovivasbc/antoniovivasbc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
